@@ -7,7 +7,7 @@ root.geometry('900x500+250+150')
 root.resizable(0,0)
 root.title("PASSWORD MANAGER")
 root.configure(bg='#262626')
-root.iconbitmap('favicon.ico')
+# root.iconbitmap('favicon.ico')
 
 var1 = ''
 # username here in the var1
